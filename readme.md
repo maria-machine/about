@@ -14,14 +14,16 @@
 
 ## Ссылки
 
-[Medium](https://medium.com/maria-machine)
-[Twitter](https://twitter.com/mariamachine_ml)
-[VK](https://vk.com/maria_machine)
-[FB](https://www.facebook.com/maria.machine.ml)
-[Телеграм канал](https://t.me/maria_machine)
-[Телеграм чат](https://t.me/maria_machine_chat)
+[Medium](https://medium.com/maria-machine)<br />
+[Twitter](https://twitter.com/mariamachine_ml)<br />
+[VK](https://vk.com/maria_machine)<br />
+[FB](https://www.facebook.com/maria.machine.ml)<br />
+[Телеграм канал](https://t.me/maria_machine)<br />
+[Телеграм чат](https://t.me/maria_machine_chat)<br />
 
 ## Контакты
 
 [maksugr@gmail.com](mailto:maksugr@gmail.com)
-[@maksugr](tg://resolve?domain=maksugr)
+<div>
+	<a href="tg://resolve?domain=maksugr">@maksugr</a>
+</div>
