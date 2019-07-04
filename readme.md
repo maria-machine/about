@@ -23,7 +23,5 @@
 
 ## Контакты
 
-[maksugr@gmail.com](mailto:maksugr@gmail.com)
-<div>
-	<a href="tg://resolve?domain=maksugr">@maksugr</a>
-</div>
+[maksugr@gmail.com](mailto:maksugr@gmail.com)<br />
+[@maksugr](https://t.me/maksugr)
