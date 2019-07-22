@@ -12,6 +12,9 @@
 
 Здесь будут рождаться переводы, статьи, выступления и многие другие проекты вокруг машинного обучения.
 
+**[Переводы](https://github.com/maria-machine/translations)**
+**[Выступления](https://github.com/maria-machine/talks)**
+
 ## Ссылки
 
 [Medium](https://medium.com/maria-machine)<br />
